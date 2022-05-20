@@ -1,4 +1,3 @@
-# Bio-Lit
 Convert (**bio**) python scripts into deployable Streamlit App. 
 
 ### Includes -
